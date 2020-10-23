@@ -2,6 +2,8 @@
 
 [Solidity Documentation](https://solidity.readthedocs.io/en/latest/)
 
+[Jump to Exercise 1](./Exercise1/Exercise1.md)
+
 ## Smart Contracts
 
 - Has methods and fields
@@ -299,5 +301,3 @@ selfdestruct(beneficiary);
 // Burns remaining funds if any
 selfdestruct(0x0);
 ```
-
-[Let's jump to Exercise 1 !](./Exercise1/Exercise1.md)

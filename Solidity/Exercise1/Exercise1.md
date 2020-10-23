@@ -93,4 +93,4 @@ If everything went well, a "Voting" contract should appear in "Deployed contract
 0: uint256[]: 0,1,0
 ```
 
-[Let's jump to Exercise 2 !](../Exercise2/Exercise2.md)
+[Jump to Exercise 2](../Exercise2/Exercise2.md)

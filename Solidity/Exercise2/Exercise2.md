@@ -217,4 +217,4 @@ The last line should return :
   BigNumber { _hex: '0x00' } ]
 ```
 
-[Let's jump to Exercise 3 !](../Exercise3/Exercise3.md)
+[Jump to Exercise 3](../Exercise3/Exercise3.md)
